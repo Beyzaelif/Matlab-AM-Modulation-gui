@@ -1,5 +1,5 @@
 # Matlab-AM-Modulation-gui
-Matlab AM Modulation gui
+Matlab AM Modulation gui => Beyza Elif Onat, İpek Eylem Ünal, Beyza Merve Koçhan
 # Matlab-AM-Modulation-gui
 Matlab AM Modulation gui
 function varargout = AMmodulationGUI(varargin)
